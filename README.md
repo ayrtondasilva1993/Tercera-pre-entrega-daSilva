@@ -18,4 +18,4 @@ Para probar estas funcionalidades, sigue los siguientes pasos:
 7. Prueba las siguientes funcionalidades:
 
    - Herencia HTML: visita la página principal (http://localhost:8000/) y las páginas de las diferentes secciones del sitio web para comprobar que heredan la estructura HTML de la plantilla base.
-   - Clases en
+
